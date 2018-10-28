@@ -20,4 +20,4 @@ Replace the Logo with your own Logo
 ## License
 Licensed under The MIT License. Not affiliated with Plex Inc or Tautulli.
 
-Background image found on [Reddit](https://reddit.com/u/maccam21)
+Background image found on [Reddit](https://www.reddit.com/r/wallpapers/comments/24id9j/collage_of_movie_posters_my_gf_put_together/) by [Maccam21](https://reddit.com/u/maccam21)
