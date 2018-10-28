@@ -1,7 +1,7 @@
 # Newsletter Reskin - Using Homebase (for Plex)
 [tylerforesthauser](https://github.com/tylerforesthauser) made this homepage, I really only wanted the newsletter though. Reskinned the newsletter and added part of his stats
 
-Just replace the Newsletter and add the new images
+Required that you're using homebase already - just replace the recently_added.html and the 2 new images 
 
 This is for self hosting your own newsletter (not emailing) - aka https://domain.com/newsletter or https://newsletter.domain.com 
 
