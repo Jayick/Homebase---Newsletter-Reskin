@@ -1471,3 +1471,39 @@ span.longtitle-right {
     margin-left: 0.5rem;
     flex-shrink: 0;
 }
+
+body {
+    background-color: #282a2d !important;
+}
+.bg-info {
+   background-color: #c01f039c!important;
+    border-radius: 50px;
+    width: 60%;
+    margin: auto;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+header.jumbotron.jumbotron-fluid.bg-dark.text-white.text-center {
+position: fixed;
+border-radius: 35px;
+}
+header.jumbotron.jumbotron-fluid.bg-dark.text-white.text-center, .bg-dark. {
+background-color: transparent !important;
+}
+.bg-dark {
+    background-color: #282a2dad!important;
+}
+main {
+    background-image: url('https://news.yndlabs.com/assets/images/background.jpg');
+}
+.list-group-flush:first-child .list-group-item:first-child, .card>.list-group:first-child .list-group-item:first-child {
+    background-color: #282a2dad!important;
+}
+.list-group {
+    background-color: #282a2dad!important;
+}
+footer.p-3.bg-dark.text-white.rounded.d-flex.align-items-center.shadow {
+    display: none !important;
+}
+span.customit {
+    font-size: 55%;
+}
