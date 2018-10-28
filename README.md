@@ -19,3 +19,5 @@ Replace the Logo with your own Logo
 
 ## License
 Licensed under The MIT License. Not affiliated with Plex Inc or Tautulli.
+
+Background image found on [Reddit](https://reddit.com/u/maccam21)
