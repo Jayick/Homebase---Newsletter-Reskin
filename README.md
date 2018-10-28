@@ -1,5 +1,5 @@
 # Newsletter Reskin - Using Homebase (for Plex)
-If you run a Plex Media Server that you share with users outside of your home, Homebase is a simple webpage that can easily direct your users to services such as Ombi to request new content and it can present ~~useless~~ useful and ~~boring~~ fun statistics about your media server. As a bonus, there is included a matching template for the Tautulli Newsletter.
+[tylerforesthauser](https://github.com/tylerforesthauser) made this homepage, I really only wanted the newsletter though. Reskinned the newsletter and added part of his stats
 
 ![Main Image](https://i.imgur.com/cY8Ovl1.jpg)
 
